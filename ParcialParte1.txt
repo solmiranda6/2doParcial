@@ -23,3 +23,25 @@ Capa de aplicacion: los protocolos que interactúan en esta capa son: FTP (File 
 4) Información sobre la red a la que estoy conectada:
 	- Direccion IP: 192.168.147.94 (CLASE C)
 	- Rango de IP: 192 – 223. 
+
+7) Recursos básicos que se necesitan para configurar la instalación de una maquina virtual: 
+   - Memoria RAM: hay que especificar la cantidad de memoria ram que se le asignará a la maquina virtual. Debe ser suficiente para que el sistema operativo de la maquina virtual funcione sin problemas, pero no tanto como para dejar sin recursos a la maquina física.
+   - CPU (procesadores y núcleos): se definen el numero de núcleos de CPU que tendrá la maquina virtual, dependiendo de las capacidades del sistema anfitrión y de los requisitos de la VM.
+   - Disco duro: se crea un disco virtual que funcionará como el almacenamiento principal de la maquina virtual. El tamaño del almacenamiento para la VM tiene que ser suficiente para que el sistema operativo y las aplicaciones se ejecuten sin problemas.
+   - Imagen ISO: se debe seleccionar la imagen de disco o ISO del sistema operativo que se desea instalar en la VM. 
+
+8) Servicios que se pueden utilizar en la Nube PaaS:
+  - Entornos de desarrollo: pueden ser lenguajes de programación como Java, Python, Node.js, etc.
+  - Aplicaciones web y móviles: Google App Engine, Azure App Service, AWS Elastic Beanstalk, Red Hat OpenShift, CloudFountry, Heroku.
+
+9) Definiciones:
+ • RAMA: es una línea separada de desarrollo que permite trabajar en una copia del código sin afectar la rama principal (generalmente main o master). Esto facilita crear nuevas funcionalidades, corregir errores y experimentar sin alterar el código estable.
+
+ • REPOSITORIO: es el elemento más básico de GitHub. Es un lugar donde puedes almacenar el código, los archivos y el historial de revisiones de cada archivo.
+
+ • AREAS DE TRABAJO QUE UTILIZA GIT BASH: 
+	- Control de versiones con Git: inicialización de repositorios, seguimiento de cambios, interacción con repositorios remotos.
+
+	- Gestión de archivos y directorios: comandos básicos del sistema (ls, cd, cat), operaciones sobre archivos (cp, mv, rm).
+
+	- Configuración de Git: configurar el nombre de usuario y correo electrónico (git config).

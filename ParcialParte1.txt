@@ -1,0 +1,25 @@
+Respuestas:
+1)  Capa de transporte: los protocolos que interactúan en esta capa son: TCP (Transmission Control Protocol) y UDP (User Datagram Protocol) .
+Capa de aplicacion: los protocolos que interactúan en esta capa son: FTP (File Transfer Protocol), HTTP (Hipertext Transfer Protocol), SMPT (Simple Mail Transfer Protocol), DNS (Domain Name Server), NFS (Network File System), telnet, etc…
+
+2) Clases de IP:
+- CLASE A: soporte redes en internet grandes.
+	Cantidad de bits para red: 8 bits.
+	Cantidad de bits para host: 24 bits.
+
+- CLASE B: soporte redes en internet moderadas.
+	Cantidad de bits para red: 16 bits.
+	Cantidad de bits para host: 16 bits.
+
+- CLASE C: soporte redes en internet pequeñas.
+	Cantidad de bits para red: 24 bits.
+	Cantidad de bits para host: 8 bits.
+
+3) Componentes que pueden conectarse a una red PAN: 
+	- Un dispositivo móvil: celular, Tablet.
+	- Una impresora inalámbrica
+	- Una computadora portátil: notebook, netbook, etc.
+
+4) Información sobre la red a la que estoy conectada:
+	- Direccion IP: 192.168.147.94 (CLASE C)
+	- Rango de IP: 192 – 223. 
